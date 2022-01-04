@@ -19,10 +19,10 @@
 <...>
 
 ## チャレンジ要素一覧
-<https://docs.google.com/spreadsheets/d/1E4Quehglf9PxM1XTE-ft2X5-hJ5dmoJhsI-UJlgzVmY/edit#gid=0>
+https://docs.google.com/spreadsheets/d/1KFG_dyh6w1808HLgjhVhR14AZ-AztAR3wIMZbWUn-9w/edit#gid=0
 
 ## 開発環境
-- OS：Windows 
+- OS：Windows
 - 言語：HTML,CSS,JavaScript,Ruby
 - フレームワーク：Ruby on Rails
 - IDE：Cloud9
